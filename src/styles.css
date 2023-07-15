@@ -1,0 +1,25 @@
+.thumbnail {
+  width: 500px;
+  height: 500px;
+}
+
+.movie-name {
+  cursor: pointer;
+  color: rgb(51, 99, 181);
+}
+
+.movie-name.active {
+  color: gray;
+}
+
+
+.active {
+  color: yellow;
+}
+a:visited {
+  color: pink;
+}
+
+h3 {
+  text-align: left;
+}
